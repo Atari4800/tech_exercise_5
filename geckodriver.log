@@ -1,0 +1,11 @@
+1624813565816	geckodriver	INFO	Listening on 127.0.0.1:48513
+1624816021226	geckodriver	INFO	Listening on 127.0.0.1:50941
+1624817482885	geckodriver	INFO	Listening on 127.0.0.1:60473
+1624817738276	geckodriver	INFO	Listening on 127.0.0.1:59745
+1624817882941	geckodriver	INFO	Listening on 127.0.0.1:44797
+1624817918480	geckodriver	INFO	Listening on 127.0.0.1:36573
+1624817918488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev6rPQL"
+Error: no DISPLAY environment variable specified
+1624817964478	geckodriver	INFO	Listening on 127.0.0.1:53149
+1624817964482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwiMe8"
+Error: no DISPLAY environment variable specified
