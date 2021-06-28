@@ -9,3 +9,19 @@ Error: no DISPLAY environment variable specified
 1624817964478	geckodriver	INFO	Listening on 127.0.0.1:53149
 1624817964482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAwiMe8"
 Error: no DISPLAY environment variable specified
+1624828319922	geckodriver	INFO	Listening on 127.0.0.1:56785
+1624828320928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFwsWmX"
+1624828323598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFwsWmX/search.json.mozlz4", (void 0)))
+1624828336881	Marionette	INFO	Listening on port 45873
+1624828337247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1624828346998	Marionette	INFO	Stopped listening on port 45873
+1624840477537	geckodriver	INFO	Listening on 127.0.0.1:41123
+1624840541018	geckodriver	INFO	Listening on 127.0.0.1:37087
+1624840541051	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel9o1XG"
+1624840543853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel9o1XG/search.json.mozlz4", (void 0)))
+1624840552666	Marionette	INFO	Listening on port 36085
+1624840552738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624840564315	Marionette	INFO	Stopped listening on port 36085
